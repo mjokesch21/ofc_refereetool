@@ -11,7 +11,7 @@ import json
 import random
 from datetime import datetime
 
-maxRefereeAppearance = 3
+maxRefereeAppearance = 2
 
 
 def synchronizeData(referees, dates, maxAppearance):
@@ -23,6 +23,7 @@ def synchronizeData(referees, dates, maxAppearance):
         if date.get('referee2'):
             if not updateRefereeData(referees, date.get('referee2'), date, maxAppearance):
                 date['referee2'] = ''
+
     return dates, referees
 
 
@@ -117,7 +118,7 @@ def mainGamble(jPathDates, jPathReferees):
 
 
 if __name__ == '__main__':
-    fPathDates = '/home/mjokesch/Dokumente/OFC/refereeTool/results/02032020-222801_dates.json' #)'dates_Saison19-20.json')
+    fPathDates = '/home/mjokesch/Dokumente/OFC/refereeTool/results/10092020-205524_dates.json' #)'dates_Saison19-20.json')
     fPathPersonal = os.path.join(os.getcwd(), 'personal.json')
     resultPath = os.path.join(os.getcwd(), 'results')
 
