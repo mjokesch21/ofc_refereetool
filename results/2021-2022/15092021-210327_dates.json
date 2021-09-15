@@ -1,0 +1,74 @@
+[
+    {
+        "referee2": "Justin Preissler",
+        "team": "B",
+        "date": "210904-1130",
+        "referee1": "Thommy Hofmann"
+    },
+    {
+        "referee2": "Kenny Hoyer",
+        "team": "C",
+        "date": "210911-1330",
+        "referee1": "Michael Jokesch"
+    },
+    {
+        "referee2": "Justin Preissler",
+        "team": "B",
+        "date": "210911-1500",
+        "referee1": "None"
+    },
+    {
+        "referee2": "Jonny Uhlmann",
+        "team": "C",
+        "date": "210925-1330",
+        "referee1": "Henrik Steinbach"
+    },
+    {
+        "referee2": "Steve Bassing",
+        "team": "B",
+        "date": "210925-1500",
+        "referee1": "Patrick Neef"
+    },
+    {
+        "referee2": "Max Hallfarth",
+        "team": "B",
+        "date": "211002-1500",
+        "referee1": "Leon Suess"
+    },
+    {
+        "referee2": "Marvin Haertel",
+        "team": "C",
+        "date": "211030-1230",
+        "referee1": "Janis Bahlcke"
+    },
+    {
+        "referee2": "Alesandro Decker",
+        "team": "B",
+        "date": "211030-1400",
+        "referee1": "Robin Grabs"
+    },
+    {
+        "referee2": "Steven Thomas",
+        "team": "C",
+        "date": "211113-1230",
+        "referee1": "Nick Molnar"
+    },
+    {
+        "referee2": "Felix Gathen",
+        "team": "B",
+        "date": "211113-1400",
+        "referee1": "Louis Guennel"
+    },
+    {
+        "referee2": "Daniel Hummitzsch",
+        "team": "C",
+        "date": "211120-1230",
+        "referee1": "Lukas Broemmer"
+    },
+    {
+        "referee2": "Max Pekrul",
+        "team": "B",
+        "date": "211127-1400",
+        "referee1": "Toni Waleszczyk"
+    }
+]

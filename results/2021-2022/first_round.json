@@ -1,0 +1,74 @@
+[
+    {
+        "referee1": "Michael Jokesch",
+        "team": "C",
+        "referee2": "Kenny Hoyer",
+        "date": "210911-1330"
+    },
+    {
+        "referee1": "",
+        "team": "C",
+        "referee2": "",
+        "date": "210925-1330"
+    },
+    {
+        "referee1": "",
+        "team": "C",
+        "referee2": "",
+        "date": "211030-1230"
+    },
+    {
+        "referee1": "",
+        "team": "C",
+        "referee2": "",
+        "date": "211113-1230"
+    },
+    {
+        "referee1": "",
+        "team": "C",
+        "referee2": "",
+        "date": "211120-1230"
+    },
+    {
+        "date": "210904-1130",
+        "referee2": "Justin Preissler",
+        "referee1": "Thommy Hofmann",
+        "team": "B"
+    },
+    {
+        "date": "210911-1500",
+        "referee2": "Justin Preissler",
+        "referee1": "None",
+        "team": "B"
+    },
+    {
+        "date": "210925-1500",
+        "referee2": "",
+        "referee1": "",
+        "team": "B"
+    },
+    {
+        "date": "211002-1500",
+        "referee2": "",
+        "referee1": "",
+        "team": "B"
+    },
+    {
+        "date": "211030-1400",
+        "referee2": "",
+        "referee1": "",
+        "team": "B"
+    },
+    {
+        "date": "211113-1400",
+        "referee2": "",
+        "referee1": "",
+        "team": "B"
+    },
+    {
+        "date": "211127-1400",
+        "referee2": "",
+        "referee1": "",
+        "team": "B"
+    }
+]

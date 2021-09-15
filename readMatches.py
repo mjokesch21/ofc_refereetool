@@ -52,9 +52,9 @@ def writeJSON(inData, fPath):
 
 if __name__ == '__main__':
     # set arguments
-    fPathInput = os.path.join(os.getcwd(), 'input/2020-2021_B-Jugend-spielplan.csv')
+    fPathInput = os.path.join(os.getcwd(), 'input/2021-2022/Spielplan C-Junioren.csv')
     now = datetime.now().strftime("%d%m%Y-%H%M%S")
-    fPathOutput = os.path.join(os.getcwd(), 'results', '{0}_dates.json'.format(now))
+    fPathOutput = os.path.join(os.getcwd(), 'results', '2021-2022', '{0}_C_dates.json'.format(now))
 
     # process
     dContent = readCSV(fPathInput)
