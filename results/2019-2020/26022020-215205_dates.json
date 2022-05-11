@@ -1,0 +1,86 @@
+[
+    {
+        "team": "A",
+        "referee2": "Martin Kaestner",
+        "referee1": "Janek Rassloff",
+        "date": "200229-1400"
+    },
+    {
+        "team": "C",
+        "referee2": "Phillipp Kaestel",
+        "referee1": "Steven Thomas",
+        "date": "200307-1330"
+    },
+    {
+        "team": "A",
+        "referee2": "Thommy Hofmann",
+        "referee1": "Max Hallfarth",
+        "date": "200314-1400"
+    },
+    {
+        "team": "C",
+        "referee2": "Mario Kretschmer",
+        "referee1": "Marvin Neder",
+        "date": "200321-1330"
+    },
+    {
+        "team": "A",
+        "referee2": "Daniel Schaefer",
+        "referee1": "Jonny Uhlmann",
+        "date": "200328-1500"
+    },
+    {
+        "team": "A",
+        "referee2": "Marcus Langer",
+        "referee1": "Florian Wunder",
+        "date": "200404-1500"
+    },
+    {
+        "team": "C",
+        "referee2": "Daniel Duerr",
+        "referee1": "David Kampka",
+        "date": "200418-1330"
+    },
+    {
+        "team": "A",
+        "referee2": "Robert Hornig",
+        "referee1": "Jonas Wagner",
+        "date": "200425-1500"
+    },
+    {
+        "team": "A",
+        "referee2": "Til Martin",
+        "referee1": "Janik Bierbaum",
+        "date": "200509-1500"
+    },
+    {
+        "team": "C",
+        "referee2": "Lukas Broemmer",
+        "referee1": "Daniel Schaefer",
+        "date": "200523-1330"
+    },
+    {
+        "team": "A",
+        "referee2": "Mirko Kunz",
+        "referee1": "Marvin Neder",
+        "date": "200523-1500"
+    },
+    {
+        "team": "A",
+        "referee2": "Allesandro Decker",
+        "referee1": "Jonny Uhlmann",
+        "date": "200606-1500"
+    },
+    {
+        "team": "C",
+        "referee2": "Andy Rothemund",
+        "referee1": "Tim Richter",
+        "date": "200620-1330"
+    },
+    {
+        "team": "A",
+        "referee2": "Peter Crouch",
+        "referee1": "Felix Nierobisch",
+        "date": "200620-1500"
+    }
+]
