@@ -1,42 +1,42 @@
-Name;Daten
-Alesandro Decker;['211030-1400', 'B']
-Cornelius Staude;F;a;l;s;e
-Daniel Hummitzsch;['211120-1230', 'C']
-David Kampka;F;a;l;s;e
-Felix Gathen;['211113-1400', 'B']
-Felix Fischer
-Felix Maedler
-Florian Wunder
-Henrik Steinbach;['210925-1330', 'C']
-Janis Bahlcke;['211030-1230', 'C']
-Jonas Wagner
-Jonny Uhlmann;['210925-1330', 'C']
-Justin Preissler;['210904-1130', 'B'];['210911-1500', 'B']
-Kenny Hoyer;['210911-1330', 'C']
-Leon Suess;['211002-1500', 'B']
-Louis Guennel;['211113-1400', 'B']
-Lukas Broemmer;['211120-1230', 'C']
-Mario Kretschmer;F;a;l;s;e
-Martin Kaestner
-Marvin Haertel;['211030-1230', 'C']
-Max Hallfarth;['211002-1500', 'B']
-Max Pekrul;['211127-1400', 'B']
-Michael Jokesch;['210911-1330', 'C']
-Mirko Kunz
-Nick Molnar;['211113-1230', 'C']
-Patrick Neef;['210925-1500', 'B']
-Peter Crouch;F;a;l;s;e
-Phillipp Kaestel
-Rene Bassing
-Robert Hornig
-Robin Grabs;['211030-1400', 'B']
-Sascha Dietze
-Steve Bassing;['210925-1500', 'B']
-Steven Thomas;['211113-1230', 'C']
-Thommy Hofmann;['210904-1130', 'B']
-Til Martin
-Tino Walther;F;a;l;s;e
-Tim Richter
-Toni Waleszczyk;['211127-1400', 'B']
-Yannik Bierbaum
-Yanik Koehler
+Name;Daten;;;;;
+Alesandro Decker;['211030-1400', 'B'];;;;;
+Cornelius Staude;F;a;l;s;e;
+Daniel Hummitzsch;['211120-1230', 'C'];;;;;
+David Kampka;F;a;l;s;e;
+Felix Gathen;['211113-1400', 'B'];;;;;
+Felix Fischer;;;;;;
+Felix Maedler;;;;;;
+Florian Wunder;;;;;;x
+Henrik Steinbach;['210925-1330', 'C'];;;;;
+Janis Bahlcke;['211030-1230', 'C'];;;;;
+Jonas Wagner;;;;;;x
+Jonny Uhlmann;['210925-1330', 'C'];;;;;
+Justin Preissler;['210904-1130', 'B'];['210911-1500', 'B'];;;;
+Kenny Hoyer;['210911-1330', 'C'];;;;;
+Leon Suess;['211002-1500', 'B'];;;;;
+Louis Guennel;['211113-1400', 'B'];;;;;
+Lukas Broemmer;['211120-1230', 'C'];;;;;
+Mario Kretschmer;F;a;l;s;e;
+Martin Kaestner;;;;;;
+Marvin Haertel;['211030-1230', 'C'];;;;;
+Max Hallfarth;['211002-1500', 'B'];;;;;
+Max Pekrul;['211127-1400', 'B'];;;;;
+Michael Jokesch;['210911-1330', 'C'];;;;;
+Mirko Kunz;;;;;;
+Nick Molnar;['211113-1230', 'C'];;;;;
+Patrick Neef;['210925-1500', 'B'];;;;;
+Peter Crouch;F;a;l;s;e;
+Phillipp Kaestel;;;;;;
+Rene Bassing;;;;;;
+Robert Hornig;;;;;;
+Robin Grabs;['211030-1400', 'B'];;;;;
+Sascha Dietze;;;;;;
+Steve Bassing;['210925-1500', 'B'];;;;;
+Steven Thomas;['211113-1230', 'C'];;;;;
+Thommy Hofmann;['210904-1130', 'B'];;;;;
+Til Martin;;;;;;x
+Tino Walther;F;a;l;s;e;
+Tim Richter;;;;;;
+Toni Waleszczyk;['211127-1400', 'B'];;;;;
+Yannik Bierbaum;;;;;;x
+Yanik Koehler;;;;;;
